@@ -79,6 +79,9 @@ Click **Apply** and it should be good!
 Now if you open minecraft it should work
 
 
+[![Hits](https://hits.sh/github.com/lolminiyt/MultiplayerFIX1.16.4-1.16.5.svg?style=for-the-badge&label=Vistas)](https://hits.sh/github.com/lolminiyt/MultiplayerFIX1.16.4-1.16.5/)
+
+
 ### Where i found this 
 
 thanks [@TaigoStudio](https://www.github.com/TaigoStudio) for the fix in this issue: https://github.com/CmlLib/CmlLib.Core/issues/85 
