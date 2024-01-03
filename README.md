@@ -77,3 +77,8 @@ Like This: ![x](https://media.discordapp.net/attachments/1122366459927081050/119
 Click **Apply** and it should be good!
 
 Now if you open minecraft it should work
+
+
+### Where i found this 
+
+thanks [@TaigoStudio](https://www.github.com/TaigoStudio) for the fix in this issue: https://github.com/CmlLib/CmlLib.Core/issues/85 
